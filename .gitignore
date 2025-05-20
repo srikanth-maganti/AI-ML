@@ -1,0 +1,10 @@
+data
+kaggle.json
+generated
+__pycache__
+*.pyc
+cifar10-cnn.pth
+cifar10_resnet9.pth
+D.ckpt
+G.ckpt
+.ipynb_checkpoints
